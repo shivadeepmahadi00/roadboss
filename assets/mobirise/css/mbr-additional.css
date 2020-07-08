@@ -1137,17 +1137,17 @@ section.lazy-placeholder:after {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
-.cid-s42amSW465 {
+.cid-s47uW6IBR7 {
   background: #ffffff;
   padding-top: 60px;
   padding-bottom: 60px;
   background: linear-gradient(0deg, #ffffff, #ffffff);
 }
-.cid-s42amSW465 .video-block {
+.cid-s47uW6IBR7 .video-block {
   margin: auto;
 }
 @media (max-width: 768px) {
-  .cid-s42amSW465 .video-block {
+  .cid-s47uW6IBR7 .video-block {
     width: 100% !important;
   }
 }
